@@ -1,7 +1,5 @@
- 👋
-
 <h1 align="center">Hi 👋, I'm Smarta Sangui</h1>
-<h3 align="center">An aspiring software developer.</h3>
+<h3 align="center">An aspiring software developer and researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarta01&label=Profile%20views&color=0e75b6&style=flat" alt="smarta01" /> </p>
 
